@@ -41,26 +41,27 @@ mi-proyecto-web/
 │
 └── README.md            # Archivo de documentación del proyecto
 
-Requisitos del Proyecto
-HTML5
+Requisitos del Proyecto:
 
-CSS3
+*HTML5
 
-JavaScript
+*CSS3
 
-Figma (para el diseño de la maqueta)
+*JavaScript
+
+*Figma (para el diseño de la maqueta)
 
 Instrucciones de Instalación:
 
-Clona este repositorio en tu máquina local:
+*Clona este repositorio en tu máquina local:
 git clone https://github.com/tu-usuario/mi-proyecto-web.git
 
-Navega al directorio del proyecto:
+*Navega al directorio del proyecto:
 cd mi-proyecto-web
 
-Abre el proyecto en tu editor de código favorito (por ejemplo, Visual Studio Code).
+-Abre el proyecto en tu editor de código favorito (por ejemplo, Visual Studio Code).
 
-Abre el archivo index.html en tu navegador para ver el sitio web.
+-Abre el archivo index.html en tu navegador para ver el sitio web.
 
-Licencia
+*Licencia
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más información.
