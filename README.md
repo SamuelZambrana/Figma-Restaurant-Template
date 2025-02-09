@@ -1,6 +1,6 @@
-# Proyecto web de Bootcamp de Desarrollo Web y Aplicaciones Moviles
+# Proyecto web del Bootcamp de Desarrollo Web y Aplicaciones Moviles
 
-Este proyecto web es un trabajo inicial del bootcamp que se desarrollará (utilizando la maqueta disponible en Figma) a lo largo del curso, donde iremos trabajando y evolucionando el proyecto para construir un sitio web completo y funcional.
+Este proyecto web es un trabajo inicial del bootcamp de Desarrollo Web y Aplicaciones Moviles que se desarrollará (utilizando la maqueta disponible en Figma) a lo largo del curso, donde iremos trabajando y evolucionando el proyecto para construir un sitio web completo y funcional.
 
 ## Enlace a la maqueta
 
