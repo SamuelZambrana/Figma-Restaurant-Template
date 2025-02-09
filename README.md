@@ -7,7 +7,7 @@ Este proyecto web es un trabajo en curso que se desarrollará utilizando la maqu
 Puedes acceder a la maqueta en Figma mediante el siguiente enlace: [Maqueta en Figma](https://www.figma.com/design/e6y2fQ5FtrUs54b6ksV6ZP/Web-Figma---Dev-Mode-(Copy)?node-id=1-343&m=dev)
 
 ## Estructura del Proyecto
-
+```plaintext
 mi-proyecto-web/
 │
 ├── index.html           # Archivo principal HTML
