@@ -1,4 +1,7 @@
-# Proyecto Web de Bootcamp Desarrollo Web y Aplicaciones Moviles
+#🌐 Proyecto Web Figma Restaurant - Dev Mode
+![HTML](https://icons8.com/icon/20909/html-5)
+![CSS](https://icons8.com/icon/7gdY5qNXaKC0/css3)
+
 
 Este proyecto web es un trabajo en curso que se desarrollará utilizando la maqueta disponible en Figma. A lo largo del curso, iremos trabajando y evolucionando el proyecto para construir un sitio web completo y funcional.
 
@@ -41,17 +44,17 @@ mi-proyecto-web/
 │
 └── README.md            # Archivo de documentación del proyecto
 
-Requisitos del Proyecto:
+## 📚 Requisitos del Proyecto:
 
-*HTML5
+**HTML5**
 
-*CSS3
+**CSS3**
 
-*JavaScript
+**JavaScript**
 
-*Figma (para el diseño de la maqueta)
+**Figma (para el diseño de la maqueta)**
 
-Instrucciones de Instalación:
+## Instrucciones de Instalación:
 
 *Clona este repositorio en tu máquina local:
 git clone https://github.com/tu-usuario/mi-proyecto-web.git
@@ -63,5 +66,5 @@ cd mi-proyecto-web
 
 -Abre el archivo index.html en tu navegador para ver el sitio web.
 
-*Licencia
+**Licencia**
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más información.
