@@ -1,5 +1,5 @@
 ## 🌐 Proyecto Web Figma Restaurant - Dev Mode
-![HTML](https://icons8.com/icon/20909/html-5)
+![HTML](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
 ![CSS](https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000)
 
 
