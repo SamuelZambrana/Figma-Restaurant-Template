@@ -22,7 +22,7 @@ Puedes acceder a la maqueta en Figma mediante el siguiente enlace: [Maqueta en F
 ## Instrucciones de Instalación:
 
 *Clona este repositorio en tu máquina local:
-git clone https://github.com/tu-usuario/mi-proyecto-web.git
+git clone https://github.com/SamuelZambrana/Figma-Restaurant-Template
 
 *Navega al directorio del proyecto:
 cd mi-proyecto-web
