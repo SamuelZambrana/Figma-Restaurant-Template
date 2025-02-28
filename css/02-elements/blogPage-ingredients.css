@@ -1,0 +1,68 @@
+.main-blogPage-contents {
+    display: flex;
+    color: #182226;
+    max-width: 81rem;
+}
+
+.blogPage-ingredients {
+    display: flex;
+    flex-direction: column;
+}
+
+.blogPage-ingredients-title {
+    max-width: 28.81rem;
+    font-size: 3.437rem;
+    font-weight: 500;
+    margin-bottom: 1.25rem;
+}
+
+.blogPage-ingredient {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    align-self: stretch;
+    margin-bottom: 1.25rem;
+    gap: 1.25rem;
+}
+
+.blogPage-ingredient-title {
+    font-weight: 600;
+}
+
+.title1 {
+    margin-bottom: 3.125rem;
+}
+
+.title2 {
+    margin: 3rem 0;
+}
+
+.ingredients {
+    font-size: 1.25rem;
+    font-weight: 500;
+    max-width: 19.375rem;
+}
+.blogPage-ingredient-checkbox {
+    display: inline-flex;
+    align-items: center;
+    gap: 1.25rem;
+    width: 100%;
+}
+
+.blogPage-ingredient-checkbox input[type="checkbox"] {
+    appearance: none;
+    border: 0.125rem solid;
+    width: 25.8px;
+    height: 1.6125rem;
+    padding: 1.2px;
+    border-radius: 50%;
+    color: var(--color-primary);
+}
+
+.blogPage-ingredient-checkbox input[type="checkbox"]:checked {
+    content: url(../../img/box.svg);
+    appearance: none;
+    border: none;
+    width: 1.6125rem;
+    height: 1.6125rem;
+}
