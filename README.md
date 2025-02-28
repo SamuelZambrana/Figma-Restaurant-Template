@@ -1,6 +1,6 @@
-#🌐 Proyecto Web Figma Restaurant - Dev Mode
+## 🌐 Proyecto Web Figma Restaurant - Dev Mode
 ![HTML](https://icons8.com/icon/20909/html-5)
-![CSS](https://icons8.com/icon/7gdY5qNXaKC0/css3)
+![CSS](https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000)
 
 
 Este proyecto web es un trabajo en curso que se desarrollará utilizando la maqueta disponible en Figma. A lo largo del curso, iremos trabajando y evolucionando el proyecto para construir un sitio web completo y funcional.
